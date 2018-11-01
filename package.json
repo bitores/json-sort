@@ -1,0 +1,25 @@
+{
+  "name": "object-sortkeys",
+  "version": "1.0.0",
+  "description": "Sortable JSON",
+  "main": "index.js",
+  "keywords": [
+    "sort",
+    "key",
+    "json",
+    "object"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitores/json-sort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitores/json-sort/issues"
+  },
+  "homepage": "https://github.com/bitores/json-sort#readme"
+}
