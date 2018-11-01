@@ -1,6 +1,7 @@
 # json-sort
 Sortable JSON
 
+> npm i --save object-sortkeys
 
 ```
 var obj = {
